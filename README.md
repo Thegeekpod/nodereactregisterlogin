@@ -10,3 +10,4 @@
           5.localhost:5000/user/editpassword (post)
 #'npm i' run the main folder
 #go to the loginregister and again run 'npm i'
+#run command: 'npm start' ;
