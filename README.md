@@ -1,4 +1,4 @@
-# nodereactregisterlogin
+# node react register login
 
 #database import db.sql
 #change database name password from config/.env
