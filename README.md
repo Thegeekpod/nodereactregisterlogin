@@ -8,5 +8,5 @@
           3.localhost:5000/user/profile     (GET)
           4.localhost:5000/user/edit (post)
           5.localhost:5000/user/editpassword (post)
-# 'npm i' run the main folder
+#'npm i' run the main folder
 #go to the loginregister and again run 'npm i'
